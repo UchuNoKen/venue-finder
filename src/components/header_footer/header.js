@@ -18,7 +18,13 @@ class Header extends Component {
             <div className="header_logo_title">Musical Events</div>
           </div>
 
-          <IconButton>
+          <IconButton
+            aria-label="Menu"
+            color="inherit"
+            onClick={() => {
+              console.log("open");
+            }}
+          >
             <MenuIcon />
           </IconButton>
         </Toolbar>
