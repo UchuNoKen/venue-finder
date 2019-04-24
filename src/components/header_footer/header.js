@@ -46,7 +46,7 @@ class Header extends Component {
       >
         <Toolbar>
           <div className="header_logo">
-            <div className="font_righteous header_logo_venue">Ven-you </div>
+            <div className="font_righteous header_logo_venue">Venyou </div>
             <div className="header_logo_title">Musical Events</div>
           </div>
 
