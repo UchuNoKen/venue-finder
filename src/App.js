@@ -15,6 +15,7 @@ class App extends Component {
         <Featured />
         <VenyouInfo />
         <Highlights />
+        <Pricing />
       </div>
     );
   }
